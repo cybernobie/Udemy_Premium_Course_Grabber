@@ -49,5 +49,20 @@ Script to add all udemy paid/free courses having coupons automatically to your u
 
 - Replace It With The text on cookie.txt 
 
-- Then RUN Python File
+- Then RUN Python File 
+
+<img src='images/1.png' width='600' height='400'>
+
+
+<img src='images/2.png' width='600' height='400'>
+
+
+<img src='images/3.png' width='600' height='400'>
+
+
+<img src='images/4.png' width='600' height='400'>
+
+
+<img src='images/5.png' width='600' height='400'>
+
 
