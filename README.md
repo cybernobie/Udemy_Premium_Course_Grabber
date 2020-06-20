@@ -26,15 +26,15 @@ Script to add all udemy paid/free courses having coupons automatically to your u
 
 ***Add all/specific course***
 
-    python udemy.py
+    python udemygrabber.py
 
 ***Or with cookie***
 
-    python udemy.py -c cookie.txt
+    python udemygrabber.py -c cookie.txt
 
 ***To schedule with cron jobs***
 
-    python udemy.py --cron
+    python udemygrabber.py --cron
 
 ***Guide to create cookie.txt file***
 - Firstly go to udemy.com, then login 
@@ -45,7 +45,7 @@ Script to add all udemy paid/free courses having coupons automatically to your u
 
 - Select COOKIES Then Udemy
 
-- Locate Access Token And Client ID 
+- Locate(Search) Access Token And Client ID 
 
 - Replace It With The text on cookie.txt 
 
